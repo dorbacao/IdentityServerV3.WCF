@@ -30,3 +30,6 @@ D:\github\WcfServices\WCFService\WCFService\bin\Debug\Newtonsoft.Json.xml
 D:\github\WcfServices\WCFService\WCFService\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
 D:\github\WcfServices\WCFService\WCFService\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
 D:\github\WcfServices\WCFService\WCFService\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+D:\github\IdentityServerV3.WCF\WCFService\bin\Debug\WCFService.exe.config
+D:\github\IdentityServerV3.WCF\WCFService\obj\Debug\WCFService.exe
+D:\github\IdentityServerV3.WCF\WCFService\obj\Debug\WCFService.pdb
